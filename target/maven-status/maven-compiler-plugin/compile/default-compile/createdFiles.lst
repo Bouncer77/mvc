@@ -1,0 +1,6 @@
+com\bouncer77\service\UserService.class
+com\bouncer77\dao\UserDaoImplement.class
+com\bouncer77\model\User.class
+com\bouncer77\controller\UserController.class
+com\bouncer77\dao\UserDao.class
+com\bouncer77\App.class
